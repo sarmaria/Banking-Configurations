@@ -5,7 +5,7 @@ accounts:
   contactDetails:
     name: "John Doe"
     email: "{cipher}9d785378935ca66a52cc7bd44ae3274ee10ef6c5fcd9f69867cc73c9fcd53af934ddfa46f1ccc2edbb3583e965be2ebe"
-    role: "Developer"
+    role: "Developer1234"
   onCallSupport:
     - (111) 12345-1242
     - (222) 12345-1243
