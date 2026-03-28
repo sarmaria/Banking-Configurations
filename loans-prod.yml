@@ -1,7 +1,7 @@
 build:
   info: "v3"
 loans:
-  message: "Welcome to loans APIs"
+  message: "Welcome to loans APIs updated"
   contactDetails:
     name: "Jeni Doe"
     email: "jenidoe@email.com"
