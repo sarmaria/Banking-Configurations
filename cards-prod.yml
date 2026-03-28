@@ -1,7 +1,7 @@
 build:
   info: "v3"
 cards:
-  message: "Welcome to cards APIs updated"
+  message: "Welcome to cards APIs"
   contactDetails:
     name: "Jency Doe"
     email: "jendoe@email.com"
