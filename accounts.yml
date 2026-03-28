@@ -1,7 +1,7 @@
 build:
   info: "v1"
 accounts:
-  message: "Welcome to accounts APIs"
+  message: "Welcome to accounts APIs change"
   contactDetails:
     name: "John Doe"
     email: "{cipher}9d785378935ca66a52cc7bd44ae3274ee10ef6c5fcd9f69867cc73c9fcd53af934ddfa46f1ccc2edbb3583e965be2ebe"
