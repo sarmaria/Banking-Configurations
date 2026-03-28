@@ -3,7 +3,7 @@ build:
 accounts:
   message: "Welcome to accounts APIs"
   contactDetails:
-    name: "John Doe"
+    name: "Johny Doe"
     email: "{cipher}9d785378935ca66a52cc7bd44ae3274ee10ef6c5fcd9f69867cc73c9fcd53af934ddfa46f1ccc2edbb3583e965be2ebe"
     role: "Developer"
   onCallSupport:
