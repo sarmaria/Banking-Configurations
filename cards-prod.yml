@@ -3,7 +3,7 @@ build:
 cards:
   message: "Welcome to cards APIs updated"
   contactDetails:
-    name: "Jen Doe"
+    name: "Jency Doe"
     email: "jendoe@email.com"
     role: "Business"
   onCallSupport:
