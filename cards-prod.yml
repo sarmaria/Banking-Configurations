@@ -3,8 +3,8 @@ build:
 cards:
   message: "Welcome to cards APIs"
   contactDetails:
-    name: "Jen Doe"
-    email: "jendoe@email.com"
+    name: "Jenny Doe"
+    email: "jennydoe@email.com"
     role: "Business"
   onCallSupport:
     - (111) 12345-1262
