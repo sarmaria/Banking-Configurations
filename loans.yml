@@ -5,7 +5,7 @@ loans:
   contactDetails:
     name: "Jen Doe"
     email: "jendoe@email.com"
-    role: "Business"
+    role: "Developer"
   onCallSupport:
     - (111) 12345-1262
     - (222) 12345-1263
