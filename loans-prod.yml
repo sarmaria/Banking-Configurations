@@ -3,7 +3,7 @@ build:
 loans:
   message: "Welcome to loans APIs"
   contactDetails:
-    name: "Jen Doe"
+    name: "Jeni Doe"
     email: "jendoe@email.com"
     role: "Business"
   onCallSupport:
